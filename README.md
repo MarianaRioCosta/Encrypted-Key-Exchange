@@ -1,6 +1,6 @@
 # CPS-Project---Encrypted-Key-Exchange
 
-This repository consists of the code used in our project for the Course **Cryptography and Security Protocols**, by professor João Ribeiro. 
+This repository consists of the code used in the project for the Course **Cryptography and Security Protocols**, by professor João Ribeiro. 
 
 We provide a implementation of Bellovin and Merritt's EKE scheme in python, using RSA as the symmetric cipher.
 
